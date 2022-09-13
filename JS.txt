@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+
+     <html lang="pl-PL">
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name=author content="Jarek Sykutera">
+		<meta name=description" content="">
+	            <title> Jarek Sykutera	</title>
+	</head>
+<body>
+<body bgcolor="yellow"  </body>
+
+	Jarek Sykutera
+<p align="right"> <font color="red" size="7" face="Arial"> Jarek</font> </p> <br>
+
+<p align="right"> <font color="red" size="6" face="Arial"> Jarek</font> </p> <br>
+
+<p align="right"> <font color="red" size="5" face="Arial"> Jarek</font> </p> <br>
+
+<p align="right"> <font color="red" size="4" face="Arial"> Jarek</font> </p> <br>
+
+<p align="right"> <font color="red" size="3" face="Arial"> Jarek</font> </p> <br>
+
+<p align="right"> <font color="red" size="2" face="Arial"> Jarek</font> </p> <br>
+
+<p align="right"> <font color="red" size="1" face="Arial"> Jarek</font> </p> <br>
+
+<h1> Sykutera </h1><br>
+<h2> Sykutera </h2><br>
+<h3> Sykutera </h3><br>
+<h4> Sykutera </h4><br>
+<h5> Sykutera </h5><br>
+<h6> Sykutera </h6><br>
+
+<p> <font color="green" size="3" face="Arial"> :( smutek,zmartwienie</font> </p> <br>
+<p> <font color="blue" size="3" face="Courier New"> :C duży smutek</font> </p> <br>
+<p> <font color="orange" size="3" face="Times New Roman"> ;( płacz</font> </p> <br>
+<p> <font color="grey" size="3" face="Verdana"> :'( płacz</font> </p> <br>
+<p> <font color="yellow" size="3" face="Cosmic"> :) Uśmiech </font> </p> <br>
+<p> <font color="red" size="3" face="Papyrus"> :D Szeroki uśmiech</font> </p> <br>
+i u strike
+<br>
+<p> <u> 80-999 </u>  <b> Gdansk </b> <strike> Ludzi ze stawu </strike> <i>21/</i> <u> </u> 37 </p> 
+<br>
+<br>
+<br>
+<p align="center"> <font color="Orange" size="7" face="Arial">Ulubiony aktor : Tom hanks </font> </p> <br>
+<br>
+<p align="center"> <font color="Green" size="5" face="Cosmic">Ulubiony zespoł muzyczny: </font><font color ="grey">Ekipa </font></font> </p>
+<br> 
+<br>
+<p align="center"> <font color="Purple" size="2.3" face="Papyrus">Data urodzenia: 11 może grudnia 2023.</font> </p>
+
+<p> H<sub>2</sub>S0<sub>4</sub>
+<br>
+<p>  <sub>x*x=x</sub>2
+
+<FIELDSET>
+	<LEGEND> <h2 Align=center> Dowcip o kosmosie </h2> </LEGEND>
+	Dlaczego w kosmosie nie ma dobrych imprez? <br>
+	<br>
+	Bo nie ma atmosfery!
+	<!-J->
+</FIELDSET>
+	
+
+
+
+</body>
